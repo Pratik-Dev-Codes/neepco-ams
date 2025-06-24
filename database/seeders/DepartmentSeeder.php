@@ -43,7 +43,7 @@ class DepartmentSeeder extends Seeder
             ['name' => 'Arbitration & Corporate Planning', 'location' => 'Guwahati Office'],
             ['name' => 'QSHE', 'location' => 'Shillong Head Office'],
             ['name' => 'Land Acquisition', 'location' => 'Shillong Head Office'],
-            ['name' => 'Information Technology (I.T)', 'location' => 'Shillong Head Office'],
+            ['name' => 'Information Technology', 'location' => 'Shillong Head Office'],
             ['name' => 'Kopili Hydro Power Station', 'location' => 'Kopili HE Station'],
             ['name' => 'Doyang Hydro Power Station', 'location' => 'Doyang HE Station'],
             ['name' => 'Assam Gas Based Power Station', 'location' => 'Assam Gas Based Power Station'],
